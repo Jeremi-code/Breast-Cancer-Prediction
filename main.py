@@ -6,7 +6,6 @@ Created on ማክሰ ሌሊት ጃን 02 02:02:01 2022
 """
 
 import numpy as np
-from sklearn.linear_model import LogisticRegression
 import pickle 
 import streamlit as st
 
