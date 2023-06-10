@@ -1,10 +1,4 @@
     # -*- coding: utf-8 -*-
-"""
-Created on ማክሰ ሌሊት ጃን 02 02:02:01 2022
-
-@author: ዮሃንስ አያና
-"""
-
 import numpy as np
 import pickle 
 import streamlit as st
